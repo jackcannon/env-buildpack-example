@@ -1,0 +1,8 @@
+{
+  "name": "heroku-buildpack-env-example",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node print-env.js",
+    "start": "node server.js"
+  }
+}
